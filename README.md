@@ -45,7 +45,6 @@ Here are some of the technologies and tools I work with:
 
 
 ## Current Stats
-## Current Stats
 
 ### Profile Details
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikshingadiya&theme=tokyonight)
