@@ -3,10 +3,14 @@
 <h1 align="center">Hi, I'm Nikhil Shingadiya 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-shingadiya/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/nikshingadiya"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:shingadiyanikhil1634@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nikshingadiya.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/nikhil-shingadiya/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/nikshingadiya">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.kaggle.com/nikshingadiya">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
 </p>
 
 ---
@@ -41,12 +45,16 @@ Here are some of the technologies and tools I work with:
 
 
 ## Current Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikshingadiya&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikshingadiya&theme=tokyonight&utcOffset=5)
+## Current Stats
+
+### Profile Details
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikshingadiya&theme=tokyonight)
 
 
-|![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshingadiya&show_icons=true&theme=tokyonight&from=2020-01-01&to=2024-12-21) | ![nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikshingadiya&theme=tokyonight) |
+---
+
+| **GitHub Stats** | **GitHub Streak** |
 | :---: | :---: |
+| ![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshingadiya&show_icons=true&theme=tokyonight&from=2020-01-01&to=2024-12-21) | ![nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikshingadiya&theme=tokyonight) |
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=nikshingadiya&theme=react-dark&hide_border=true)
-<br />
 
