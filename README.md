@@ -14,7 +14,7 @@
 </p>
 
 ---
-
+![Visitor Count](https://komarev.com/ghpvc/?username=nikshingadiya)
 ## About Me
 
 I am a passionate AI/ML Engineer with over 3+ years of experience in the data science field. I specialize in delivering valuable data insights through analytical functions and data retrieval methods. I am committed to helping companies develop strategic plans based on predictive modeling and findings. I am always eager to learn new technologies and implement them in real-world applications.
