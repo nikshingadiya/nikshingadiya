@@ -54,5 +54,5 @@ Here are some of the technologies and tools I work with:
 
 | **GitHub Stats** | **GitHub Streak** |
 | :---: | :---: |
-| ![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshingadiya&show_icons=true&theme=tokyonight&from=2020-01-01&to=2025-12-21) | ![nikhil's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nikshingadiya&theme=tokyonight) |
+| ![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikshingadiya&show_icons=true&theme=tokyonight&from=2024-01-01&to=2025-12-21) | ![nikhil's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nikshingadiya&theme=tokyonight) |
 
